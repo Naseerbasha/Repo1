@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is C293-581C
+
+ Directory of C:\Users\bbasha\Desktop\myproject
+
+05/14/2019  10:40 PM    <DIR>          .
+05/14/2019  10:40 PM    <DIR>          ..
+05/14/2019  10:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  206,191,177,728 bytes free
